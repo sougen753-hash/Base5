@@ -30,3 +30,4 @@
 # Base79
 # Base8
 # Base81
+# Base82
