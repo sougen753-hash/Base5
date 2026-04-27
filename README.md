@@ -6,3 +6,4 @@
 # Base55
 # Base56
 # Base57
+# Base58
