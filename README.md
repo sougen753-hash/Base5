@@ -34,3 +34,4 @@
 # Base83
 # Base84
 # Base85
+# Base86
