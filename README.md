@@ -8,3 +8,4 @@
 # Base57
 # Base58
 # Base59
+# Base6
