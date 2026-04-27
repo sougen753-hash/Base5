@@ -15,3 +15,4 @@
 # Base64
 # Base65
 # Base66
+# Base67
