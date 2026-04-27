@@ -12,3 +12,4 @@
 # Base61
 # Base62
 # Base63
+# Base64
