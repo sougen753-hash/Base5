@@ -10,3 +10,4 @@
 # Base59
 # Base6
 # Base61
+# Base62
