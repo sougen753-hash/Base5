@@ -42,3 +42,4 @@
 # Base91
 # Base92
 # Base93
+# Base94
