@@ -18,3 +18,4 @@
 # Base67
 # Base68
 # Base69
+# Base7
